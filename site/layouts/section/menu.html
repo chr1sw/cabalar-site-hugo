@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{ partial "jumbotron-menu" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 mb6 center ph3 pt4">
+
+  <h1 class="f3">Breakfast</h1><br />
+
+  {{ range .Site.Taxonomies.categories.breakfast }}
+  <strong>{{ .Title }}</strong> <br />
+  {{ .Params.description }} <br />
+  <p class="primary mb2">
+  {{ .Params.price }}<br /></p>
+  {{ end }}
+  <br />
+
+  <hr />
+  <br />
+
+  <h1 class="f3">Lunch</h1>
+  <br />
+
+  {{ range .Site.Taxonomies.categories.lunch }}
+  <strong>{{ .Title }}</strong> <br />
+  {{ .Params.description }} <br />
+  <p class="primary mb2">
+  {{ .Params.price }}<br /></p>
+  {{ end }}
+
+
+</div>
+
+{{ end }}
