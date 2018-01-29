@@ -18,31 +18,31 @@ collections: # A list of collections the CMS should be able to edit
               name: news
               widget: list
               fields:
-               - {label: Header, name: header, widget: text}
+               - {label: Heading, name: heading, widget: text}
                - {label: Text, name: text, widget: text}
             - label: Menu
               name: food
               widget: list
               fields:
-               - {label: Header, name: header, widget: text}
+               - {label: Heading, name: heading, widget: text}
                - {label: Text, name: text, widget: text}
             - label: Products
               name: products
               widget: list
               fields:
-               - {label: Header, name: header, widget: text}
+               - {label: Heading, name: heading, widget: text}
                - {label: Text, name: text, widget: text}
             - label: Values
               name: values
               widget: list
               fields:
-               - {label: Header, name: header, widget: text}
+               - {label: Heading, name: heading, widget: text}
                - {label: Text, name: text, widget: text}
             - label: Farms
               name: farms
               widget: list
               fields:
-               - {label: Header, name: header, widget: text}
+               - {label: Heading, name: heading, widget: text}
                - {label: Text, name: text, widget: text}
         - file: "site/content/contact/_index.md"
           label: "Contact"
