@@ -5,6 +5,15 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "menu" # Used in routes, e.g., /admin/collections/blog
+    label: "Menu" # Used in the UI
+    folder: "site/content/menu" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Name", name: "title", widget: "text"}
+      - {label: "Category", name: "categories", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Price", name: "price", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
