@@ -2,7 +2,7 @@
 title: Locally Sourced Butcher & Grocer
 image: /img/home-jumbotron.jpg
 news:
-  heading: BIG News
+  heading: Latest News
   text: >-
     Nulla quis lorem ut libero malesuada feugiat. Pellentesque in ipsum id orci
     porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
