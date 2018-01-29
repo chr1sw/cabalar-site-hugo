@@ -1,14 +1,17 @@
 ---
 title: Our Products
 image: /img/products-jumbotron.jpg
-intro:
-  blurbs:    
-    - image: /img/cow.png
+products:    
+    - imageUrl: /img/cow.png
+      name: Beef
       text: Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.
-    - image: /img/pig.png
+    - imageUrl: /img/pig.png
+      name: Pork
       text: Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.
-    - image: /img/chicken.png
+    - imageUrl: /img/chicken.png
+      name: Poultry
       text: Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.
-    - image: /img/carrot.png
+    - imageUrl: /img/carrot.png
+      name: Produce
       text: Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.
 ---
