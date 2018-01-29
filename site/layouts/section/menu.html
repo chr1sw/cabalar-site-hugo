@@ -6,13 +6,17 @@
 
   <h1 class="f3">Breakfast</h1><br />
 
-  {{ range .Site.Taxonomies.categories.breakfast }}
+  {{ range $index, $element := .Params.breakfast }}
+      {{ partial "menu-item" $element }}
+  {{ end }}
+
+  <!-- {{ range .Site.Taxonomies.categories.breakfast }}
   <strong>{{ .Title }}</strong> <br />
   {{ .Params.description }} <br />
   <p class="primary mb2">
   {{ .Params.price }}<br /></p>
   {{ end }}
-  <br />
+  <br /> -->
 
   <hr />
   <br />
@@ -20,12 +24,12 @@
   <h1 class="f3">Lunch</h1>
   <br />
 
-  {{ range .Site.Taxonomies.categories.lunch }}
+  <!-- {{ range .Site.Taxonomies.categories.lunch }}
   <strong>{{ .Title }}</strong> <br />
   {{ .Params.description }} <br />
   <p class="primary mb2">
   {{ .Params.price }}<br /></p>
-  {{ end }}
+  {{ end }} -->
 
 
 </div>
