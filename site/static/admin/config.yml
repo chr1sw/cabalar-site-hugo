@@ -8,29 +8,24 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/_index.md"
+      - file: "site/content_index.md"
         label: "Home Page"
         name: "home"
         fields:
+          - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Info", name: "info", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: text},
-              {label: "Address 1", name: "addone", widget: "text"},
-              {label: "Address 2", name: "addtwo", widget: "text"},
-              {label: "Hours", name: "hours", widget: "text"},
-              {label: "Note", name: "note", widget: "text"}]}
-          - {label: "News", name: news, widget: "list", fields: [
-              {label: "Heading", name: "heading", widget: "text"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Menu", name: menu, widget: "list", fields: [
-              {label: "Heading", name: "heading", widget: "text"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: "list", fields: [
-              {label: "Heading", name: "heading", widget: "text"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "list", fields: [
-              {label: "Heading", name: "heading", widget: text},
-              {label: "Text", name: "text", widget: "text"}]}
+          - label: News
+            name: news
+            widget: list
+            fields:
+              - {label: Heading, name: name, widget: text}
+              - {label: Text, name: text, widget: text}
+          - label: menu
+            name: menu
+            widget: list
+            fields:
+              - {label: Heading, name: name, widget: text}
+              - {label: Text, name: text, widget: text}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
