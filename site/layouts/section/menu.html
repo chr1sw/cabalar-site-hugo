@@ -24,6 +24,10 @@
   <h1 class="f3">Lunch</h1>
   <br />
 
+  {{ range $index, $element := .Params.lunch }}
+      {{ partial "menu-item" $element }}
+  {{ end }}
+
   <!-- {{ range .Site.Taxonomies.categories.lunch }}
   <strong>{{ .Title }}</strong> <br />
   {{ .Params.description }} <br />
