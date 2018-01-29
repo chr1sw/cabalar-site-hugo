@@ -76,3 +76,15 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Location, name: location, widget: text}
               - {label: Description, name: description, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/farms/_index.md"
+        label: "Products Page"
+        name: "products"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Products
+            name: products
+            widget: list
+            fields:
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
