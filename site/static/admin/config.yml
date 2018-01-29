@@ -62,8 +62,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-
-      - file: "site/content/Menu/_index.md"
+      - file: "site/content/menu/_index.md"
         label: "Menu Page"
         name: "menu"
         fields:
@@ -71,13 +70,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - label: Breakfast
             name: breakfast
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: text}
-              - {label: Description, name: description, widget: text}
-              - {label: Price, name: price, widget: string}
-          - label: Lunch
-            name: lunch
             widget: list
             fields:
               - {label: Name, name: name, widget: text}
