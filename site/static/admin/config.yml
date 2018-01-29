@@ -76,7 +76,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Location, name: location, widget: text}
               - {label: Description, name: description, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/farms/_index.md"
+      - file: "site/content/products/_index.md"
         label: "Products Page"
         name: "products"
         fields:
