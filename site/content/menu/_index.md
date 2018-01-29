@@ -10,4 +10,3 @@ lunch:
     name: Lunch Item
     price: $12
 ---
-
