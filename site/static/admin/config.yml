@@ -57,50 +57,50 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-       - file: "site/content/menu/_index.md"
-         label: "Menu Page"
-         name: "menu"
-         fields:
-           - {label: Title, name: title, widget: string}
-           - {label: Image, name: image, widget: image}
-           - label: Breakfast
-             name: breakfast
-             widget: list
-             fields:
+        - file: "site/content/menu/_index.md"
+          label: "Menu Page"
+          name: "menu"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Image, name: image, widget: image}
+            - label: Breakfast
+              name: breakfast
+              widget: list
+              fields:
                - {label: Name, name: name, widget: text}
                - {label: Description, name: description, widget: text}
                - {label: Price, name: price, widget: string}
-          - label: Lunch
-            name: lunch
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: text}
-              - {label: Description, name: description, widget: text}
-              - {label: Price, name: price, widget: string}
-       - file: "site/content/farms/_index.md"
-         label: "Farms Page"
-         name: "farms"
-         fields:
-           - {label: Title, name: title, widget: string}
-           - {label: Image, name: image, widget: image}
-           - label: Farms
-             name: farms
-             widget: list
-             fields:
-              - {label: Farm, name: farm, widget: text}
-              - {label: Location, name: location, widget: text}
-              - {label: Description, name: description, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
-       - file: "site/content/products/_index.md"
-         label: "Products Page"
-         name: "products"
-         fields:
-           - {label: Title, name: title, widget: string}
-           - {label: Image, name: image, widget: image}
-           - label: Products
-             name: products
-             widget: list
-             fields:
-               - {label: Image, name: imageUrl, widget: image}
-               - {label: Name, name: name, widget: string}
-               - {label: Text, name: text, widget: text}
+            - label: Lunch
+              name: lunch
+              widget: list
+              fields:
+                - {label: Name, name: name, widget: text}
+                - {label: Description, name: description, widget: text}
+                - {label: Price, name: price, widget: string}
+        - file: "site/content/farms/_index.md"
+          label: "Farms Page"
+          name: "farms"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Image, name: image, widget: image}
+            - label: Farms
+              name: farms
+              widget: list
+              fields:
+                - {label: Farm, name: farm, widget: text}
+                - {label: Location, name: location, widget: text}
+                - {label: Description, name: description, widget: text}
+                - {label: Image, name: imageUrl, widget: image}
+        - file: "site/content/products/_index.md"
+          label: "Products Page"
+          name: "products"
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Image, name: image, widget: image}
+            - label: Products
+              name: products
+              widget: list
+              fields:
+                - {label: Image, name: imageUrl, widget: image}
+                - {label: Name, name: name, widget: string}
+                - {label: Text, name: text, widget: text}
