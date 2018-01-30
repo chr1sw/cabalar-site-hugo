@@ -1,6 +1,12 @@
 ---
 title: Locally Sourced Butcher & Grocer
 image: /img/home-jumbotron.jpg
+info:
+  heading: Locally Sourced Butcher & Grocer
+  addone: 325 North Queen Street | The Keppel Building
+  addtwo: Lancaster, PA 17602 | Phone 717-208-7344
+  hours: Mon-Fri 7am-6pm | Sat 8am-6pm | Sun 8am-3pm
+  note: Customer Parking Available
 news:
   heading: Latest News
   text: >-
