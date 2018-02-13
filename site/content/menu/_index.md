@@ -16,7 +16,7 @@ breakfast:
   - name: Add Egg
     price: $1
 lunch:
-  - description: 'Braised beef neck, smoked cheddar sauce, pickled red onion, garlic aioli'
+  - description: 'Braised beef neck, smoked cheddar sauce, pickled red onion'
     name: Beef Neck & Cheese
     price: $8
   - description: >-
@@ -26,12 +26,10 @@ lunch:
     price: $8
   - description: >-
       Fresh made corn tortilla, braised pasture raised meat, sliced radish,
-      oregano cream, pickled shallots
+      oregano cream, pickled shallots, cilantro
     name: Tacos
     price: $7
-  - description: >-
-      Potato bun, house made beef hot dog, jalapeno cream cheese, apple butter
-      BBQ sauce, charred onions
+  - description: 'potato bun, jalapeno cream cheese, apple butter bbq sauce, charred onions'
     name: Seattle Dog
     price: $7
 ---
