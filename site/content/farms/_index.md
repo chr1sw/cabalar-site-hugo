@@ -28,5 +28,12 @@ farms:
     farm: Mirror Image Farms
     imageUrl: /img/mirror-image-farms.jpg
     location: 'Bainbridge, PA'
+  - description: >
+      Located on 30 picturesque acres of unspoiled farmland in the heart of
+      Lancaster County, Myer Springdell Farm is your local source for 100% grass
+      fed and pasture raised beef.
+    farm: Myer Springdell Farm
+    imageUrl: /img/vertical-myer-springdell-farm.jpg
+    location: 'Strasburg, PA'
 ---
 
