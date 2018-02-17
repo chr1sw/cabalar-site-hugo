@@ -18,10 +18,8 @@ values:
   text: 'We are a family operated business, supporting several family farms.'
 farms:
   heading: Our Farms
-  text: |-
-    Myer Springdell Farm
-    Mirror Image Farms
-    Livengood Family Farm
-    Meadow Run Farm
+  text: >-
+    Myer Springdell Farm • Mirror Image Farms • Livengood Family Farm • Meadow
+    Run Farm
 ---
 
