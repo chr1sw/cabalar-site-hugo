@@ -11,7 +11,7 @@ breakfast:
     name: Breakfast Hash
     price: $7
   - description: >-
-      Brioche Roll, egg and chive scramble, house garlic aioli, aged cheddar,
+      Brioche roll, egg and chive scramble, house garlic aioli, aged cheddar,
       caramelized onion
     name: Egg and Cheese
     price: '$5, Optional add sausage $3'
@@ -35,4 +35,3 @@ lunch:
     name: Seattle Dog
     price: $7
 ---
-
