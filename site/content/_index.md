@@ -19,7 +19,7 @@ values:
 farms:
   heading: Our Farms
   text: >-
-    Myer Springdell Farm • Mirror Image Farms • Livengood Family Farm • Meadow
-    Run Farm
+    Myer Springdell Farm, Mirror Image Farms, Livengood Family Farm, Meadow Run
+    Farm
 ---
 
