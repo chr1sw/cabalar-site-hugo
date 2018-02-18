@@ -15,7 +15,11 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Title, name: title, widget: string}
             - {label: Image, name: image, widget: image}
             - {label: "Info", name: info, widget: object, fields: [
-                {label: "Hours", name: "hours", widget: text}]}
+                {label: "Heading", name: "heading", widget: text},
+                {label: "Address1", name: "addone", widget: text},
+                {label: "Address2", name: "addtwo", widget: text},
+                {label: "Hours", name: "hours", widget: text}
+                {label: "Note", name: "note", widget: text}]}
             - {label: "News", name: news, widget: object, fields: [
                 {label: "Heading", name: "heading", widget: text},
                 {label: "Text", name: "text", widget: "text"}]}
