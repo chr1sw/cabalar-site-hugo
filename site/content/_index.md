@@ -21,7 +21,7 @@ products:
   text: We source the best ingredients Lancaster County has to offer!
 values:
   heading: Our Values
-  text: 'We are a family operated business, supporting several family farms.'
+  text: 'We are a family-operated business, supporting several family farms.'
 farms:
   heading: Our Farms
   text: >-
