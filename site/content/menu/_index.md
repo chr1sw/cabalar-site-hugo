@@ -1,6 +1,6 @@
 ---
 title: ' Menu'
-image: /img/img-1599.jpg
+image: /img/burger.jpg
 breakfast:
   - description: 'Buttermilk biscuit, maple sausage gravy, chives'
     name: Biscuits & Gravy
