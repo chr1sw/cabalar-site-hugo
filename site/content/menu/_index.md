@@ -1,6 +1,6 @@
 ---
 title: ' Menu'
-image: /img/menu-jumbotron.jpg
+image: /img/img-1599.jpg
 breakfast:
   - description: 'Buttermilk biscuit, maple sausage gravy, chives'
     name: Biscuits & Gravy
@@ -35,3 +35,4 @@ lunch:
     name: Seattle Dog
     price: $7
 ---
+
