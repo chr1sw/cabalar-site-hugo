@@ -1,13 +1,13 @@
 ---
-title: ' Menu'
+title: ' Menu (Served from 10am-2pm)'
 image: /img/img-2087.jpg
 breakfast:
-  - description: 'Buttermilk biscuit, maple sausage gravy, chives'
-    name: Biscuits & Gravy
-    price: $6
   - description: 'Braised Beef, roasted rosemary potatoes, sunny egg, smoked paprika aioli'
     name: Breakfast Hash
     price: $8
+  - description: 'Buttermilk biscuit, maple sausage gravy, chives'
+    name: Biscuits & Gravy
+    price: $6
   - description: >-
       Brioche roll, egg and chive scramble, house aioli, 4 year aged cheddar,
       caramelized onion
