@@ -14,21 +14,15 @@ breakfast:
     name: Egg and Cheese
     price: '$5, Optional add sausage $3'
 lunch:
-  - description: 'Braised beef neck, aged cheddar sauce, pickled onion'
+  - description: >-
+      Braised beef neck, jalapeno cream cheese, pickled onion, farmers cheese,
+      brioche bun
     name: Beef & Cheese
     price: $8
   - description: >-
-      Beef patty, brioche bun, cheddar, shaved onion, bread and butter pickles,
-      house garlic aioli
+      Beef patty, brioche bun, 4 year aged cheddar, shaved onion, B&B pickles,
+      house aioli
     name: Cheeseburger
     price: $8
-  - description: >-
-      House made corn tortilla, braised pasture raised meat, sliced radish,
-      oregano cream, pickled shallots, cilantro
-    name: Tacos
-    price: $7
-  - description: 'Brioche bun, jalapeno cream cheese, apple butter BBQ sauce, charred onions'
-    name: Seattle Dog
-    price: $7
 ---
 
