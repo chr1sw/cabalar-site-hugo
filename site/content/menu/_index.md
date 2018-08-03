@@ -34,8 +34,10 @@ lunch:
       caramelized onion
     name: Cajun Patty Melt
     price: $8
-  - description: '14hr smoked brisket, sweet pickle mayo, BBQ onion jam, brioche'
-    name: Texas Brisket
+  - description: >-
+      14hr smoked Pork Butt, sweet pickle mayo, Pickled Jalapeno Cole Slaw,
+      brioche
+    name: BBQ Pulled Pork
     price: $10
   - description: 'house smoked beef navel, Russian dressing, Swiss, raw kraut, marble rye'
     name: Pastrami Reuben
