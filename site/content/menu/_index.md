@@ -34,11 +34,10 @@ lunch:
       caramelized onion
     name: Cajun Patty Melt
     price: $8
-  - description: >-
-      14hr smoked Pork Butt, sweet pickle mayo, Pickled Jalapeno Cole Slaw,
-      brioche
-    name: BBQ Pulled Pork
-    price: $10
+  - description: 'Smoked Pork Belly, Liver Mousse, Fish Oil Aioli, Pickled Veg, Cilantro'
+    name: |
+      Pork Belly Banh Mi
+    price: $7
   - description: 'house smoked beef navel, Russian dressing, Swiss, raw kraut, marble rye'
     name: Pastrami Reuben
     price: $9
