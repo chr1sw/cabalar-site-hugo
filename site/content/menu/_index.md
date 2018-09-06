@@ -1,5 +1,5 @@
 ---
-title: ' Menu (Served from 10am-2pm)'
+title: ' Menu Served Mon-Fri 10am-2pm, Sat-Sun 9am-3pm'
 image: /img/img-2087.jpg
 breakfast:
   - description: 'braised beef, roasted rosemary potatoes, sunny egg, smoked paprika aioli'
