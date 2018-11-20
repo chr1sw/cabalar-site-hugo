@@ -9,8 +9,9 @@ info:
   note: Customer Parking Available
 news:
   heading: >-
-    We are excited to announce our new on-site collaboration with Voodoo Brewery
-    to bring you craft beer, wine and cocktails to pair with our food menu.
+    We are excited to announce our new on-site collaboration with Voodoo
+    Brewery, bringing you the finest craft beer, wine and cocktails to pair with
+    our food menu.
   text: ''
 food:
   heading: Our Menu
