@@ -5,10 +5,12 @@ info:
   addone: 325 North Queen Street | The Keppel Building
   addtwo: 'Lancaster, PA 17602 | Phone 717-208-7344'
   heading: Locally Sourced Butcher & Grocer
-  hours: Wed-Fri 10am-6pm | Sat 9am-5pm | Sun 9am-3pm
+  hours: Tues-Sat 11am-8pm | Sun 11am-6pm
   note: Customer Parking Available
 news:
-  heading: ''
+  heading: >-
+    We are excited to announce our new on-site collaboration with Voodoo Brewery
+    to bring you craft beer, wine and cocktails to pair with our food menu.
   text: ''
 food:
   heading: Our Menu
