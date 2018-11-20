@@ -8,7 +8,7 @@ info:
   hours: Tues-Sat 11am-8pm | Sun 11am-6pm
   note: Customer Parking Available
 news:
-  heading: LATEST NEWS
+  heading: Latest News
   text: >-
     We are excited to announce our new on-site collaboration with Voodoo
     Brewery, bringing you the finest craft beer, wine and cocktails to pair with
