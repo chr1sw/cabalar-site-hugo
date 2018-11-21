@@ -89,12 +89,32 @@ lunch:
   - description: 'Tzatziki, Pickled Red Onion, Radish'
     name: Falafel Burger
     price: '9'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - description: |
+      Candied Bacon, Crispy Shallot,
+      Sweet Orange Vin 
+    name: Brussel Sprout Salad
+    price: '8'
+  - description: |
+      Shredded Cabbage, Rice Noodle, 
+      Fish Sauce, Peanuts, Rau Ram
+    name: Vietnamese Chicken Salad
+    price: '11'
+  - description: |
+      Puff Pastry, Balsamic, Goat Cheese, Bitter Greens
+    name: Caramelized Garlic Tart
+    price: '10'
+  - description: |
+      Green Goddess, Pistachio, Shaved Fennel
+    name: Beet Salad
+    price: '8'
+  - description: Lemon Bourbon Mascarpone
+    name: Griddled Pound Cake
+    price: '7'
+  - description: |
+      Cardamom Sugar, Apple Cider Caramel, Maple Anglaise
+    name: Lard Fried Donuts
+    price: '7'
+  - name: Lemon Meringue Tart
+    price: '8'
 ---
 
