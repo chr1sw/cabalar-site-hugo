@@ -26,6 +26,31 @@ breakfast:
     name: Sticky Bun French Toast
     price: '9'
 lunch:
+  - description: Sweet Pickle Mayo and Ketchup
+    name: Beef Tallow Fries
+    price: '5'
+  - description: 'Fonduta Cheese Curds, Beef Gravy'
+    name: Poutine
+    price: '9'
+  - description: 'Hot Sauce, Blue Cheese'
+    name: Chicken Wings
+    price: '12'
+  - description: 'BBQ Rub, Ranch'
+    name: Smoked Pork Rinds
+    price: '7'
+  - description: 'House-made Meat Selections, Pickles, Mustard, Bread'
+    name: Charcuterie Plate
+    price: '14'
+  - description: Voodoo Beer Cheese
+    name: Pretzel Braid
+    price: '7'
+  - description: |
+      Spicy Sausage, Corn Bread, Honey Butter
+    name: Beef Chili
+    price: '8'
+  - description: 'Tahini, Lavash, Voodoo IPA'
+    name: Hop Hummus
+    price: '8'
   - description: >
       Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
       Brioche Bun
@@ -64,5 +89,12 @@ lunch:
   - description: 'Tzatziki, Pickled Red Onion, Radish'
     name: Falafel Burger
     price: '9'
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 
