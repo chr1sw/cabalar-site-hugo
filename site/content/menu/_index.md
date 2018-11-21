@@ -44,19 +44,25 @@ lunch:
     name: Cuban
     price: '10'
   - description: '4-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
-    name: House Special
+    name: House Special Burger
     price: $10
-  - description: >-
-      beef patty, marble rye, farmers and Swiss cheeses, cajun aioli,
-      caramelized onion
-    name: Cajun Patty Melt
-    price: '8'
   - description: |
       Sweet Onion Jam, Smoked Bacon, Crispy Onion, Aioli, Cooper American
-    name: BBQ Bacon
+    name: BBQ Bacon Burger
     price: '11'
-  - {}
-  - {}
-  - {}
+  - description: |
+      Double Patty, Caramelized Onion, Cajun Mayo, White American, Rye Bread
+    name: Patty Melt
+    price: '12'
+  - description: 'Cooper American, Ketchup, LTO'
+    name: Classic Burger
+    price: '9'
+  - description: |
+      Dry Aged Beef, Gouda, Special Sauce, Pickled Green Tomato 
+    name: Dry Age Burger
+    price: '12'
+  - description: 'Tzatziki, Pickled Red Onion, Radish'
+    name: Falafel Burger
+    price: '9'
 ---
 
