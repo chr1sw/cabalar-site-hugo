@@ -1,48 +1,120 @@
 ---
-title: Menu served Tues-Sat 11am-8pm | Sun 11am-6pm
+title: >-
+  Menu Served: Tues-Sat 11am-8pm | Sun 11am-6pm    Breakfast/Brunch: Sat-Sun
+  11am-3pm
 image: /img/img-2087.jpg
 breakfast:
-  - description: 'braised beef, roasted rosemary potatoes, sunny egg, smoked paprika aioli'
+  - description: |
+      Rosemary Roasted Potatoes, Braised Beef, Cajun Aioli, Sunny Egg
     name: Breakfast Hash
-    price: $8
-  - description: 'buttermilk biscuit, maple sausage gravy, chives'
-    name: Biscuits & Gravy
-    price: $6
-  - description: >-
-      egg and chive scramble, house aioli, 4 year aged cheddar, caramelized
-      onion, brioche
+    price: '10'
+  - description: |
+      Buttermilk Biscuit, Maple Sausage Gravy
+    name: Biscuit & Gravy
+    price: '8'
+  - description: |+
+      Chive Egg Scramble, 4- Year Aged Cheddar, Caramelized Onion, Aioli
+
     name: Egg and Cheese
-    price: $5                 add sausage $3
-  - description: >-
-      cinnamon sugar butter toasted brioche, candied bacon, house smoked ham,
-      over easy egg, farmers cheese
+    price: 6                 add sausage 3
+  - description: >
+      Maple Cinnamon Butter, Candied Bacon, Smoked Ham, Over Easy Egg, Cooper
+      American
     name: Monte Cristo
-    price: $9
+    price: '9'
+  - description: Maple Anglaise
+    name: Sticky Bun French Toast
+    price: '9'
 lunch:
-  - description: >-
-      braised beef neck, jalapeno cream cheese, pickled onion, farmers cheese,
-      brioche bun
+  - description: Sweet Pickle Mayo and Ketchup
+    name: Beef Tallow Fries
+    price: '5'
+  - description: 'Fonduta Cheese Curds, Beef Gravy'
+    name: Poutine
+    price: '9'
+  - description: 'Hot Sauce, Blue Cheese'
+    name: Chicken Wings
+    price: '12'
+  - description: 'BBQ Rub, Ranch'
+    name: Smoked Pork Rinds
+    price: '7'
+  - description: 'House-made Meat Selections, Pickles, Mustard, Bread'
+    name: Charcuterie Plate
+    price: '14'
+  - description: Voodoo Beer Cheese
+    name: Pretzel Braid
+    price: '7'
+  - description: |
+      Spicy Sausage, Corn Bread, Honey Butter
+    name: Beef Chili
+    price: '8'
+  - description: 'Tahini, Lavash, Voodoo IPA'
+    name: Hop Hummus
+    price: '8'
+  - description: >
+      Braised Beef Neck, Jalapeño Cream Cheese, Celery Seed Pickled Onion,
+      Brioche Bun
     name: Beef & Cheese
-    price: $9
-  - description: >-
-      beef patty, brioche, 4 year aged cheddar, shaved onion, B&B pickles, house
-      aioli
-    name: Cheeseburger
-    price: $8
-  - description: >-
-      beef patty, marble rye, farmers and Swiss cheeses, cajun aioli,
-      caramelized onion
-    name: Cajun Patty Melt
-    price: $8
+    price: '11'
   - description: 'Smoked Pork Belly, Liver Mousse, Fish Oil Aioli, Pickled Veg, Cilantro'
     name: |
       Pork Belly Banh Mi
-    price: $7
-  - description: 'house smoked beef navel, Russian dressing, Swiss, raw kraut, marble rye'
+    price: '9'
+  - description: |
+      Smoked Beef Navel, Russian Dressing, Swiss, Kraut, Marble Rye
     name: Pastrami Reuben
-    price: $9
-  - description: 'house smoked ham, spicy Dijon, house aioli. Swiss, B&B Pickle, long roll'
+    price: '11'
+  - description: |
+      Smoked Ham, Spicy Dijon, Swiss, Pickle, Long Roll
     name: Cuban
-    price: $9
+    price: '10'
+  - description: '4-year Aged Cheddar, B&B Pickle, Aioli, Shaved Onion'
+    name: House Special Burger
+    price: $10
+  - description: |
+      Sweet Onion Jam, Smoked Bacon, Crispy Onion, Aioli, Cooper American
+    name: BBQ Bacon Burger
+    price: '11'
+  - description: |
+      Double Patty, Caramelized Onion, Cajun Mayo, White American, Rye Bread
+    name: Patty Melt
+    price: '12'
+  - description: 'Cooper American, Ketchup, LTO'
+    name: Classic Burger
+    price: '9'
+  - description: |
+      Dry Aged Beef, Gouda, Special Sauce, Pickled Green Tomato 
+    name: Dry Age Burger
+    price: '12'
+  - description: 'Tzatziki, Pickled Red Onion, Radish'
+    name: Falafel Burger
+    price: '9'
+  - description: |
+      Candied Bacon, Crispy Shallot,
+      Sweet Orange Vin 
+    name: Brussel Sprout Salad
+    price: '8'
+  - description: |
+      Shredded Cabbage, Rice Noodle, 
+      Fish Sauce, Peanuts, Rau Ram
+    name: Vietnamese Chicken Salad
+    price: '11'
+  - description: |
+      Puff Pastry, Balsamic, Goat Cheese, Bitter Greens
+    name: Caramelized Garlic Tart
+    price: '10'
+  - description: |
+      Green Goddess, Pistachio, Shaved Fennel
+    name: Beet Salad
+    price: '8'
+  - description: Lemon Bourbon Mascarpone
+    name: Griddled Pound Cake
+    price: '7'
+  - description: |
+      Cardamom Sugar, Apple Cider Caramel, Maple Anglaise
+    name: Lard Fried Donuts
+    price: '7'
+  - name: Lemon Meringue Tart
+    price: '8'
 ---
 
