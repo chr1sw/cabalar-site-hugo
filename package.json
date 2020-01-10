@@ -33,7 +33,7 @@
     "file-loader": "^5.0.0",
     "gotrue-js": "^0.9.1",
     "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2",
+    "gulp-babel": "^8.0.0",
     "gulp-postcss": "^8.0.0",
     "gulp-replace": "^0.5.4",
     "gulp-util": "^3.0.7",
