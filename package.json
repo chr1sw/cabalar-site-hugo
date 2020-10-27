@@ -43,7 +43,7 @@
     "postcss-import": "^11.0.0",
     "postcss-loader": "^0.13.0",
     "postcss-uncss": "^0.17.0",
-    "react": "15.6.2",
+    "react": "15.7.0",
     "uncss": "^0.17.0",
     "url-loader": "^0.6.0",
     "webpack": "^3.0.0",
